@@ -1,0 +1,2 @@
+This is my Git basic practice project.
+Git helps manage different versions of source code.
